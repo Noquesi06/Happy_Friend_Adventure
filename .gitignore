@@ -1,0 +1,26 @@
+# Archivos compilados
+*.o
+*.exe
+*.out
+*.a
+HFA
+*.elf
+
+# Carpetas de build y IDE
+build/
+bin/
+cmake-build-*/
+.idea/
+.vscode/
+*.iml
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
+.DS_Store
+.~*
+
+# Archivos de backup
+*~
+*.bak

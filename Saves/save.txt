@@ -1,0 +1,13 @@
+Nombre: Diego
+HP_MAX: 1000
+Nivel actual: 0
+DMG: 10
+DEF: 5
+EVA: 5
+HP_REG: 0
+Money: 1000
+CRIT: 0.00
+VAMP: 0.00
+Warrior: 1
+ESTADO_JEFES: 0 0 0 0 0 0 
+JEFES_MUERTOS: 0 0 0 0 0 0 
