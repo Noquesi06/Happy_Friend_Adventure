@@ -1,3 +1,4 @@
+
 # Archivos compilados
 *.o
 *.exe
@@ -24,3 +25,5 @@ cmake-build-*/
 # Archivos de backup
 *~
 *.bak
+
+
